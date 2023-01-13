@@ -16,4 +16,4 @@ Solving a technical problem quickly typically involves a combination of the foll
 
 - **Don't be afraid to start over**: If you find yourself stuck, don't be afraid to start over and try a different approach. Sometimes a fresh perspective is all you need to find a solution.
 
-It's worth noting that even experienced engineers can be stuck on a problem and it's not always easy to find the right approach, and it is completely normal. It's also good to have a balance of not spending too much time on one problem, and knowing when to ask for help or take a break.
+It's worth noting that **```even experienced engineers can be stuck on a problem and it's not always easy to find the right approach, and it is completely normal. It's also good to have a balance of not spending too much time on one problem, and knowing when to ask for help or take a break.```**
